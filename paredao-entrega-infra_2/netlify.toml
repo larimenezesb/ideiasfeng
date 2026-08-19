@@ -1,0 +1,4 @@
+# Use este arquivo apenas se a hospedagem for Netlify.
+[build]
+  publish = "."
+  functions = "netlify/functions"
